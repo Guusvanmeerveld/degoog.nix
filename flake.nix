@@ -13,7 +13,7 @@
       type = "github";
       owner = "degoog-org";
       repo = "degoog";
-      ref = "0.22.0";
+      ref = "0.23.0";
       flake = false;
     };
   };
