@@ -26,16 +26,16 @@
     "degoog": {
       "flake": false,
       "locked": {
-        "lastModified": 1786219839,
-        "narHash": "sha256-5Tid6WEe4GbIkfLOF6XetQoYxVpBj3Bk5KuCIe+Rrcc=",
+        "lastModified": 1791054374,
+        "narHash": "sha256-XfI4Axi97KSRaP18KlZXtda8bX4XJ3Ydo8b9/Vwxplw=",
         "owner": "degoog-org",
         "repo": "degoog",
-        "rev": "4ec589cab8c0b231b8c346ab9d877ef46e3de5b5",
+        "rev": "4a9bcc74f0fceaa33efbab4777f063274cce23d6",
         "type": "github"
       },
       "original": {
         "owner": "degoog-org",
-        "ref": "0.24.0",
+        "ref": "1.0.0",
         "repo": "degoog",
         "type": "github"
       }
@@ -81,11 +81,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1787135253,
-        "narHash": "sha256-M5/r2v++FjVhdsxXYMb4BDJ5YLAdCWFt3aZotcshocA=",
-        "rev": "ffb3c9b700e759be2ef13237c9d8f953b32a1e46",
+        "lastModified": 1791048980,
+        "narHash": "sha256-u3KCLxsnf1622GdFccg8hmkEIutOZ1h4pvia5ERjIuI=",
+        "rev": "a7868a727837f3c09cee2ce0ca671c76b1589fed",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixos/unstable/nixos-26.11pre1058091.ffb3c9b700e7/nixexprs.tar.xz"
+        "url": "https://releases.nixos.org/nixos/unstable/nixos-26.11pre1084968.a7868a727837/nixexprs.tar.zst"
       },
       "original": {
         "id": "nixpkgs",
